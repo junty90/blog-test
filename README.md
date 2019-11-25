@@ -1,6 +1,6 @@
 # 自我介绍
 
-大家好，我叫小Jun，
+大家好，我叫Junty，
 
 ### 爱好：
 
@@ -16,8 +16,8 @@
 4. 小丑
 5. 触不可及
 
-### 对世界打个招呼
+### 用JavaScript对世界打个招呼
 
-```javaScript
+```javascript
 console.log('Hello,World!')
 ```
